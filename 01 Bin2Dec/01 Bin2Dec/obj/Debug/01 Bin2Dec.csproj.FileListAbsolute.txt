@@ -1,0 +1,9 @@
+D:\PRODAS XR5\Windows Form Application\01 Bin2Dec\01 Bin2Dec\bin\Debug\01 Bin2Dec.exe.config
+D:\PRODAS XR5\Windows Form Application\01 Bin2Dec\01 Bin2Dec\bin\Debug\01 Bin2Dec.exe
+D:\PRODAS XR5\Windows Form Application\01 Bin2Dec\01 Bin2Dec\bin\Debug\01 Bin2Dec.pdb
+D:\PRODAS XR5\Windows Form Application\01 Bin2Dec\01 Bin2Dec\obj\Debug\01 Bin2Dec.csprojResolveAssemblyReference.cache
+D:\PRODAS XR5\Windows Form Application\01 Bin2Dec\01 Bin2Dec\obj\Debug\_01_Bin2Dec.Form1.resources
+D:\PRODAS XR5\Windows Form Application\01 Bin2Dec\01 Bin2Dec\obj\Debug\_01_Bin2Dec.Properties.Resources.resources
+D:\PRODAS XR5\Windows Form Application\01 Bin2Dec\01 Bin2Dec\obj\Debug\01 Bin2Dec.csproj.GenerateResource.Cache
+D:\PRODAS XR5\Windows Form Application\01 Bin2Dec\01 Bin2Dec\obj\Debug\01 Bin2Dec.exe
+D:\PRODAS XR5\Windows Form Application\01 Bin2Dec\01 Bin2Dec\obj\Debug\01 Bin2Dec.pdb

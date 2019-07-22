@@ -1,0 +1,11 @@
+D:\PRODAS XR5\Windows Form Application\02 DEC2BIN\02 DEC2BIN\bin\Debug\02 DEC2BIN.exe.config
+D:\PRODAS XR5\Windows Form Application\02 DEC2BIN\02 DEC2BIN\bin\Debug\02 DEC2BIN.exe
+D:\PRODAS XR5\Windows Form Application\02 DEC2BIN\02 DEC2BIN\bin\Debug\02 DEC2BIN.pdb
+D:\PRODAS XR5\Windows Form Application\02 DEC2BIN\02 DEC2BIN\obj\Debug\_02_DEC2BIN.Form1.resources
+D:\PRODAS XR5\Windows Form Application\02 DEC2BIN\02 DEC2BIN\obj\Debug\_02_DEC2BIN.Properties.Resources.resources
+D:\PRODAS XR5\Windows Form Application\02 DEC2BIN\02 DEC2BIN\obj\Debug\02 DEC2BIN.csproj.GenerateResource.Cache
+D:\PRODAS XR5\Windows Form Application\02 DEC2BIN\02 DEC2BIN\obj\Debug\02 DEC2BIN.exe
+D:\PRODAS XR5\Windows Form Application\02 DEC2BIN\02 DEC2BIN\obj\Debug\02 DEC2BIN.pdb
+D:\PRODAS XR5\WINDOWS APLICATION\02 DEC2BIN\02 DEC2BIN\bin\Debug\02 DEC2BIN.exe.config
+D:\PRODAS XR5\WINDOWS APLICATION\02 DEC2BIN\02 DEC2BIN\obj\Debug\02 DEC2BIN.exe
+D:\PRODAS XR5\WINDOWS APLICATION\02 DEC2BIN\02 DEC2BIN\obj\Debug\02 DEC2BIN.pdb

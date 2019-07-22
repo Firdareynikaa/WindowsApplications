@@ -1,0 +1,18 @@
+D:\PRODAS XR5\Windows Form Application\03 Konversi Bilangan\03 Konversi Bilangan\bin\Debug\03 Konversi Bilangan.exe.config
+D:\PRODAS XR5\Windows Form Application\03 Konversi Bilangan\03 Konversi Bilangan\bin\Debug\03 Konversi Bilangan.exe
+D:\PRODAS XR5\Windows Form Application\03 Konversi Bilangan\03 Konversi Bilangan\bin\Debug\03 Konversi Bilangan.pdb
+D:\PRODAS XR5\Windows Form Application\03 Konversi Bilangan\03 Konversi Bilangan\obj\Debug\03 Konversi Bilangan.csprojResolveAssemblyReference.cache
+D:\PRODAS XR5\Windows Form Application\03 Konversi Bilangan\03 Konversi Bilangan\obj\Debug\_03_Konversi_Bilangan.Form1.resources
+D:\PRODAS XR5\Windows Form Application\03 Konversi Bilangan\03 Konversi Bilangan\obj\Debug\_03_Konversi_Bilangan.Properties.Resources.resources
+D:\PRODAS XR5\Windows Form Application\03 Konversi Bilangan\03 Konversi Bilangan\obj\Debug\03 Konversi Bilangan.csproj.GenerateResource.Cache
+D:\PRODAS XR5\Windows Form Application\03 Konversi Bilangan\03 Konversi Bilangan\obj\Debug\03 Konversi Bilangan.exe
+D:\PRODAS XR5\Windows Form Application\03 Konversi Bilangan\03 Konversi Bilangan\obj\Debug\03 Konversi Bilangan.pdb
+D:\PRODAS XR5\WINDOWS APLICATION\03 Konversi Bilangan\03 Konversi Bilangan\bin\Debug\03 Konversi Bilangan.exe.config
+D:\PRODAS XR5\WINDOWS APLICATION\03 Konversi Bilangan\03 Konversi Bilangan\obj\Debug\03 Konversi Bilangan.exe
+D:\PRODAS XR5\WINDOWS APLICATION\03 Konversi Bilangan\03 Konversi Bilangan\obj\Debug\03 Konversi Bilangan.pdb
+D:\PRODAS XR5\WINDOWS APLICATION\03 Konversi Bilangan\03 Konversi Bilangan\bin\Debug\03 Konversi Bilangan.exe
+D:\PRODAS XR5\WINDOWS APLICATION\03 Konversi Bilangan\03 Konversi Bilangan\bin\Debug\03 Konversi Bilangan.pdb
+D:\PRODAS XR5\WINDOWS APLICATION\03 Konversi Bilangan\03 Konversi Bilangan\obj\Debug\03 Konversi Bilangan.csprojResolveAssemblyReference.cache
+D:\PRODAS XR5\WINDOWS APLICATION\03 Konversi Bilangan\03 Konversi Bilangan\obj\Debug\_03_Konversi_Bilangan.Form1.resources
+D:\PRODAS XR5\WINDOWS APLICATION\03 Konversi Bilangan\03 Konversi Bilangan\obj\Debug\_03_Konversi_Bilangan.Properties.Resources.resources
+D:\PRODAS XR5\WINDOWS APLICATION\03 Konversi Bilangan\03 Konversi Bilangan\obj\Debug\03 Konversi Bilangan.csproj.GenerateResource.Cache
